@@ -1,0 +1,46 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha512-SfTiTlX6kk+qitfevl/7LibUOeJWlt9rbyDn92a1DqWOw9vWG2MFoays0sgObmWazO5BQPiFucnnEAjpAB+/Sw==" crossorigin="anonymous" />
+
+
+.social-media .fas{
+    font-size: 20px;
+    color: #fff;
+    background: #000;
+    padding: 15px;
+    margin-left: 10px;
+  
+    
+}
+.social-media .face{
+    padding-right: 22px;
+   
+    background: #4267B2;
+}
+.social-media .lin{
+    padding-right: 17px;
+    /* position: fixed; */
+    /* top: 58%; */
+    background: #0077b5;
+}
+.social-media .ytb{
+    padding-right: 12px;
+    /* position: fixed; */
+    /* top: 66%; */
+    background: #FF0000;
+}
+.social-media .ins{
+    padding-right: 17px;
+    /* position: fixed; */
+    /* top: 74%; */
+    background: #8a3ab9;
+}
+.social-media .cl-ph{
+    /* position: fixed; */
+    /* top: 82%; */
+    background: #32CD32;
+}
+.social-media .e-m{
+    /* position: fixed;
+    top: 90%; */
+    background: #6C6360;
+}
+.m-save .sec img{
